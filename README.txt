@@ -1,0 +1,1 @@
+no pude acabar el crud pero si me dan masa tiempo estará listo muchas gracias y lo siento por la demora
