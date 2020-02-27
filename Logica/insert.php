@@ -25,11 +25,12 @@
                                 '$TPersona',
                                 '$Activo',
                                 '$FIngreso')";
-	echo mysqli_query($conexion,$sql);
+    echo mysqli_query($conexion,$sql);
+    mysqli_close($conexion);
  ?>
  
 <script type="text/javascript">
-	//script de retorno a pagina de inicio y script de exito en la update
-	alert("Datos Actualizados Exitosamante!!");
+	//script de retorno a pagina de inicio y script de exito en la insert
+	alert("Datos Ingresados Exitosamante!!");
 	window.location.href='../index.php';
 </script>
