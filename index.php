@@ -96,7 +96,7 @@
                     <input type="text" class="form-control" id="idIdEmpresa2" name="idIdEmpresa2" readonly="readonly">
                 </div>
                 <div class="form-group col-md-6">
-                    <label>actualizar</label>
+                    <label>Razon social</label>
                     <input type="text" class="form-control" name="idRazonSocial2" id="idRazonSocial2">
                 </div>
 
